@@ -16,7 +16,7 @@ I Went to a Island
 * Panner tikka
 * Mixed Veg Curry  
 * Gulab Jammun  <br><br>
-[Myprofilelink](mystats.md)
+[Myprofilelink](Mystats.md)
 ******
 I am going to create a table with at least 4 kinds of sports that i recommend someone to play. The table given below explain about worth of the sport and spending time.
 
