@@ -30,7 +30,7 @@ I am going to create a table with at least 4 kinds of sports that i recommend so
 
 # My Favourite Scientist Quotes
  >Imagination Is More Important than Knowledge - *Albert Einstein*
- > 
+  
  >Inteligence is the ability to adapt to change - *Stephen Hawking*
 
  *********
